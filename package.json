@@ -36,5 +36,8 @@
     "gulp-uglify": "^3.0.0",
     "shelljs": "^0.8.2",
     "shx": "^0.3.2"
+  },
+  "dependencies": {
+    "package.json": "^2.0.1"
   }
 }
